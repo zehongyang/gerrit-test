@@ -19,4 +19,5 @@ func main() {
 	fmt.Println("test")
 	fmt.Println("1111")
 	GetMaxNum(1, 2)
+	fmt.Println(11554)
 }
